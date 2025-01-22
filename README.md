@@ -43,7 +43,7 @@ Prerequisites:
 
 Steps:
 1. Clone this repository:
-   git clone https://github.com/yourusername/rayzrsole.git
+   git clone https://github.com/Sakibalam03/rayzrsole.git
 
 2. Navigate to the project directory:
    cd rayzrsole
