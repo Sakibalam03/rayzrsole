@@ -3,15 +3,13 @@ Welcome to the RayzrSole GitHub repository! This repository contains the source 
 
 
 Table of Contents:
-1. Project Overview
-2. Features
-3. Technologies Used
-4. Setup Instructions
-5. File Structure
-6. Features by Section
-7. Contributing
-8. License
-9. Contact
+1. Features
+2. Technologies Used
+3. Setup Instructions
+4. File Structure
+5. Features by Section
+6. Contributing
+7. Contact
 
 
 Features:
